@@ -1,3 +1,3 @@
 # CV
 Curriculum Vitae
-https://hirendoshi9901.github.io/CV/index.html
+https://giftgishiren.github.io/hirenCV/index.html
